@@ -1,0 +1,5 @@
+C:\YCMIGT\GitHub\PowerMonitorServer\Out\Debug\ServerBll.dll
+C:\YCMIGT\GitHub\PowerMonitorServer\Out\Debug\ServerBll.pdb
+C:\YCMIGT\GitHub\PowerMonitorServer\ServerBll\obj\Debug\ServerBll.dll
+C:\YCMIGT\GitHub\PowerMonitorServer\ServerBll\obj\Debug\ServerBll.pdb
+C:\YCMIGT\GitHub\PowerMonitorServer\ServerBll\obj\Debug\ServerBll.csprojResolveAssemblyReference.cache

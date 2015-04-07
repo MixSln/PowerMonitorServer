@@ -1,0 +1,5 @@
+C:\YCMIGT\GitHub\PowerMonitorServer\Out\Debug\ServerAil.dll
+C:\YCMIGT\GitHub\PowerMonitorServer\Out\Debug\ServerAil.pdb
+C:\YCMIGT\GitHub\PowerMonitorServer\ServerAil\obj\Debug\ServerAil.dll
+C:\YCMIGT\GitHub\PowerMonitorServer\ServerAil\obj\Debug\ServerAil.pdb
+C:\YCMIGT\GitHub\PowerMonitorServer\ServerAil\obj\Debug\ServerAil.csprojResolveAssemblyReference.cache

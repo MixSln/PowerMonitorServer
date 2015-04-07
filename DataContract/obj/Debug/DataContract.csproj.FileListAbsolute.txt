@@ -1,0 +1,4 @@
+C:\YCMIGT\GitHub\PowerMonitorServer\DataContract\bin\Debug\DataContract.dll
+C:\YCMIGT\GitHub\PowerMonitorServer\DataContract\bin\Debug\DataContract.pdb
+C:\YCMIGT\GitHub\PowerMonitorServer\DataContract\obj\Debug\DataContract.dll
+C:\YCMIGT\GitHub\PowerMonitorServer\DataContract\obj\Debug\DataContract.pdb
