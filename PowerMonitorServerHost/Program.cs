@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
+using PowerServer.ServerBll;
 
 namespace PowerServer.PowerMonitorServerHost
 {
@@ -9,6 +9,16 @@ namespace PowerServer.PowerMonitorServerHost
     {
         static void Main(string[] args)
         {
+            using(PowerService ps = new PowerService())
+            {
+                ps.startService();
+                Console.WriteLine("Service Running ...");
+                while (Console.ReadKey().Key != ConsoleKey.Escape)
+                {
+
+                }
+                ps.stopService();
+            }
         }
     }
 }

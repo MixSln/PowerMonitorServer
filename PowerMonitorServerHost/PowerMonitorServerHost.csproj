@@ -34,7 +34,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
@@ -42,6 +41,19 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ServerAil\ServerAil.csproj">
+      <Project>{945b7a2c-0fbb-465e-91d5-3f6dcba303b5}</Project>
+      <Name>ServerAil</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ServerBll\ServerBll.csproj">
+      <Project>{fe7a0aaf-2097-48b0-9004-268e6c47bdcc}</Project>
+      <Name>ServerBll</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

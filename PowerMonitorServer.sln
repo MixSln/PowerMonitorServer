@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerBll", "ServerBll\Serv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerAil", "ServerAil\ServerAil.csproj", "{945B7A2C-0FBB-465E-91D5-3F6DCBA303B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContract", "DataContract\DataContract.csproj", "{363340CA-0C20-490B-9707-3146268DB885}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContracts", "DataContract\DataContracts.csproj", "{363340CA-0C20-490B-9707-3146268DB885}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -7,3 +7,4 @@ C:\YCMIGT\GitHub\PowerMonitorServer\Out\PowerMonitorServerHost.pdb
 C:\YCMIGT\GitHub\PowerMonitorServer\Out\Debug\PowerMonitorServerHost.exe
 C:\YCMIGT\GitHub\PowerMonitorServer\Out\Debug\PowerMonitorServerHost.pdb
 C:\YCMIGT\GitHub\PowerMonitorServer\PowerMonitorServerHost\obj\Debug\PowerMonitorServerHost.csprojResolveAssemblyReference.cache
+C:\YCMIGT\GitHub\PowerMonitorServer\Out\Debug\PowerMonitorServerHost.exe.config

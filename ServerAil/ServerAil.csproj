@@ -39,14 +39,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IPowerService.cs" />
-    <Compile Include="PowerService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\ServerBll\ServerBll.csproj">
-      <Project>{fe7a0aaf-2097-48b0-9004-268e6c47bdcc}</Project>
-      <Name>ServerBll</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
