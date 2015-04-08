@@ -1,0 +1,5 @@
+E:\GitHub\PowerMonitorServer\DataContract\bin\Debug\DataContract.dll
+E:\GitHub\PowerMonitorServer\DataContract\bin\Debug\DataContract.pdb
+E:\GitHub\PowerMonitorServer\DataContract\obj\Debug\DataContracts.csprojResolveAssemblyReference.cache
+E:\GitHub\PowerMonitorServer\DataContract\obj\Debug\DataContract.dll
+E:\GitHub\PowerMonitorServer\DataContract\obj\Debug\DataContract.pdb

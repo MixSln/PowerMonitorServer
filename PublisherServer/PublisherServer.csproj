@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{363340CA-0C20-490B-9707-3146268DB885}</ProjectGuid>
+    <ProjectGuid>{80EB6179-B41F-4893-880B-741CD18401EE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DataContract</RootNamespace>
-    <AssemblyName>DataContract</AssemblyName>
+    <RootNamespace>PublisherServer</RootNamespace>
+    <AssemblyName>PublisherServer</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -34,11 +34,25 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Data" />
-    <Reference Include="System.Runtime.Serialization" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DataContracts.cs" />
+    <Compile Include="IModules\ITopicInfo.cs" />
+    <Compile Include="IModules\ITopicNode.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PubliserServer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataContract\DataContracts.csproj">
+      <Project>{363340ca-0c20-490b-9707-3146268db885}</Project>
+      <Name>DataContracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ServerAil\ServerAil.csproj">
+      <Project>{945b7a2c-0fbb-465e-91d5-3f6dcba303b5}</Project>
+      <Name>ServerAil</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Modules\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

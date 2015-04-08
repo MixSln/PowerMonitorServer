@@ -46,6 +46,10 @@ namespace PowerServer.ServerBll
         }
         #endregion
 
+        #region Logic member
+        private PublisherServer.PubliserServer _publisher = PublisherServer.PubliserServer.GetInstance();
+        #endregion
+
         #region Implement Interface
         /// <summary>
         /// user login check
@@ -55,6 +59,7 @@ namespace PowerServer.ServerBll
         /// <returns></returns>
         public bool checkUser(string username, string passwd)
         {
+            
             return false;
         }
         #endregion

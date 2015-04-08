@@ -46,6 +46,10 @@
     <Compile Include="Modules\UserManager.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\PublisherServer\PublisherServer.csproj">
+      <Project>{80eb6179-b41f-4893-880b-741cd18401ee}</Project>
+      <Name>PublisherServer</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ServerAil\ServerAil.csproj">
       <Project>{945b7a2c-0fbb-465e-91d5-3f6dcba303b5}</Project>
       <Name>ServerAil</Name>

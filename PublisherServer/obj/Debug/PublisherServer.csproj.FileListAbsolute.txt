@@ -1,0 +1,9 @@
+E:\GitHub\PowerMonitorServer\PublisherServer\bin\Debug\PublisherServer.dll
+E:\GitHub\PowerMonitorServer\PublisherServer\bin\Debug\PublisherServer.pdb
+E:\GitHub\PowerMonitorServer\PublisherServer\bin\Debug\DataContract.dll
+E:\GitHub\PowerMonitorServer\PublisherServer\bin\Debug\ServerAil.dll
+E:\GitHub\PowerMonitorServer\PublisherServer\bin\Debug\DataContract.pdb
+E:\GitHub\PowerMonitorServer\PublisherServer\bin\Debug\ServerAil.pdb
+E:\GitHub\PowerMonitorServer\PublisherServer\obj\Debug\PublisherServer.csprojResolveAssemblyReference.cache
+E:\GitHub\PowerMonitorServer\PublisherServer\obj\Debug\PublisherServer.dll
+E:\GitHub\PowerMonitorServer\PublisherServer\obj\Debug\PublisherServer.pdb

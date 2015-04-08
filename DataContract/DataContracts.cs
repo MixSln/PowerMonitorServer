@@ -10,4 +10,10 @@ namespace PowerServer.DataContracts
     {
         
     }
+
+    [DataContract]
+    public struct ClientInfo
+    {
+
+    }
 }
