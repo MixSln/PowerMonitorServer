@@ -5,7 +5,7 @@ using PowerServer.DataContracts;
 
 namespace PublisherServer.IModules
 {
-    interface ITopicInfo
+    public interface ITopicInfo
     {
         ClientInfo getClientInfo();
         string getClientAddr();

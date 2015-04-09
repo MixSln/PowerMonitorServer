@@ -1,4 +1,0 @@
-C:\YCMIGT\GitHub\PowerMonitorServer\Out\Debug\ServerDal.dll
-C:\YCMIGT\GitHub\PowerMonitorServer\Out\Debug\ServerDal.pdb
-C:\YCMIGT\GitHub\PowerMonitorServer\ServerDal\obj\Debug\ServerDal.dll
-C:\YCMIGT\GitHub\PowerMonitorServer\ServerDal\obj\Debug\ServerDal.pdb

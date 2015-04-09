@@ -5,7 +5,7 @@ using PowerServer.ServerAil;
 
 namespace PublisherServer.IModules
 {
-    interface ITopicNode
+    public interface ITopicNode
     {
         IPublisherEvents getPublisherEvents();
         ITopicInfo getTopicInfo();

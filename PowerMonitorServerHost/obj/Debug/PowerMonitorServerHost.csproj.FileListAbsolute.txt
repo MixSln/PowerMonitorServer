@@ -1,13 +1,7 @@
 C:\YCMIGT\GitHub\PowerMonitorServer\PowerMonitorServerHost\bin\Debug\PowerMonitorServerHost.exe
 C:\YCMIGT\GitHub\PowerMonitorServer\PowerMonitorServerHost\bin\Debug\PowerMonitorServerHost.pdb
-C:\YCMIGT\GitHub\PowerMonitorServer\PowerMonitorServerHost\obj\Debug\PowerMonitorServerHost.exe
-C:\YCMIGT\GitHub\PowerMonitorServer\PowerMonitorServerHost\obj\Debug\PowerMonitorServerHost.pdb
 C:\YCMIGT\GitHub\PowerMonitorServer\Out\PowerMonitorServerHost.exe
 C:\YCMIGT\GitHub\PowerMonitorServer\Out\PowerMonitorServerHost.pdb
-C:\YCMIGT\GitHub\PowerMonitorServer\Out\Debug\PowerMonitorServerHost.exe
-C:\YCMIGT\GitHub\PowerMonitorServer\Out\Debug\PowerMonitorServerHost.pdb
-C:\YCMIGT\GitHub\PowerMonitorServer\PowerMonitorServerHost\obj\Debug\PowerMonitorServerHost.csprojResolveAssemblyReference.cache
-C:\YCMIGT\GitHub\PowerMonitorServer\Out\Debug\PowerMonitorServerHost.exe.config
 E:\GitHub\PowerMonitorServer\Out\Debug\PowerMonitorServerHost.exe.config
 E:\GitHub\PowerMonitorServer\PowerMonitorServerHost\obj\Debug\PowerMonitorServerHost.exe
 E:\GitHub\PowerMonitorServer\PowerMonitorServerHost\obj\Debug\PowerMonitorServerHost.pdb
