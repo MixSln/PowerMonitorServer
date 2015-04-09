@@ -6,14 +6,32 @@ using System.Runtime.Serialization;
 namespace PowerServer.DataContracts
 {
     [DataContract]
-    public struct Device
-    {
-        
-    }
-
-    [DataContract]
     public struct ClientInfo
     {
 
     }
+
+#region Room Data
+    [DataContract]
+    public struct RoomBaseInfo
+    {
+
+    }
+#endregion
+
+#region Device Data
+    [DataContract]
+    public struct DeviceBaseInfo
+    {
+
+    }
+#endregion
+
+#region User Data
+    [DataContract]
+    public struct UserBaseInfo
+    {
+
+    }
+#endregion
 }

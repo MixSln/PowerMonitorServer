@@ -51,13 +51,7 @@ namespace PowerServer.ServerBll
         #endregion
 
         #region Implement Interface
-        /// <summary>
-        /// user login check
-        /// </summary>
-        /// <param name="username"></param>
-        /// <param name="passwd"></param>
-        /// <returns></returns>
-        public bool checkUser(string username, string passwd)
+        public bool userLogin(string username, string passwd)
         {
             
             return false;

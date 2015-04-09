@@ -5,7 +5,7 @@ using System.Text;
 
 namespace PowerServer.ServerBll.IModules
 {
-    interface IUserManager
+    public interface IUserManager
     {
 
     }

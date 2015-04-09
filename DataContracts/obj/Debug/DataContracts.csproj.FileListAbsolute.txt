@@ -7,3 +7,7 @@ C:\YCMIGT\GitHub\PowerMonitorServer\DataContract\bin\Debug\DataContracts.dll
 C:\YCMIGT\GitHub\PowerMonitorServer\DataContract\bin\Debug\DataContracts.pdb
 C:\YCMIGT\GitHub\PowerMonitorServer\DataContract\obj\Debug\DataContracts.dll
 C:\YCMIGT\GitHub\PowerMonitorServer\DataContract\obj\Debug\DataContracts.pdb
+C:\YCMIGT\GitHub\PowerMonitorServer\Out\Debug\DataContracts.dll
+C:\YCMIGT\GitHub\PowerMonitorServer\Out\Debug\DataContracts.pdb
+C:\YCMIGT\GitHub\PowerMonitorServer\DataContracts\obj\Debug\DataContracts.dll
+C:\YCMIGT\GitHub\PowerMonitorServer\DataContracts\obj\Debug\DataContracts.pdb
